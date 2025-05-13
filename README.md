@@ -19,6 +19,11 @@ python main.py class_index.csv target_classes.csv
 ## 依存ライブラリ
 - javalang
 
+### インストール方法（コマンドプロンプトで実行）
+```cmd
+pip install -r requirements.txt
+```
+
 ---
 
 ## バージョン管理は version_log.md を参照してください。
