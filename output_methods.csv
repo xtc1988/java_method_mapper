@@ -1,0 +1,4 @@
+class,method
+com.example.SampleClass,methodB
+com.example.SampleClass,methodA
+com.example.SampleClass,hidden
